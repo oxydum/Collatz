@@ -1,5 +1,5 @@
 # Collatz
-La conjecture de Syracuse
+🇫🇷 La conjecture de Syracuse
 
 - Collatz(3) Durée:7 Pair:5 Impair:2 H:[16]
 - Collatz(7) Durée:16 Pair:11 Impair:5 H:[52]
