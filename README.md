@@ -35,6 +35,7 @@
 - Collatz(3041127) Durée:363 Pair:231 Impair:132 H:[622717901620]
 - Collatz(3873535) Durée:322 Pair:206 Impair:116 H:[858555169576]
 - Collatz(4637979) Durée:573 Pair:360 Impair:213 H:[1318802294932]
+-
 - Collatz(5000000) Durée:144 Pair:97 Impair:47 H:[234376]
 - Collatz(5000001) Durée:136 Pair:92 Impair:44 H:[15000004]
 - Collatz(5000003) Durée:162 Pair:108 Impair:54 H:[22500016]
@@ -56,4 +57,7 @@
 - Collatz(6631675) Durée:576 Pair:362 Impair:214 H:[60342610919632]
 - Collatz(19638399) Durée:606 Pair:381 Impair:225 H:[306296925203752]
 - Collatz(38595583) Durée:483 Pair:306 Impair:177 H:[474637698851092]
+-
+- Collatz(50014167) Durée:579 Pair:365 Impair:214 H:[360793864600]
+- Collatz(50017311) Durée:579 Pair:365 Impair:214 H:[54737196267796]
 
